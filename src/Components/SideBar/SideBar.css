@@ -1,0 +1,10 @@
+.SideBar {
+  width: 250px;
+  min-width: 250px;
+  padding: 20px 20px;
+  margin-top: 0;
+  box-shadow: 0 0 6px hsl(210 14% 90%);
+}
+Link{
+  text-decoration: none;
+}
